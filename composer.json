@@ -10,7 +10,10 @@
         "php": "^7.4",
         "monolog/monolog": "^2.3.5",
         "drupal/backup_migrate": "^5.0",
-        "drush/drush": "*"
+        "drush/drush": "*",
+        "drupal/quick_node_clone": "^1.14",
+        "drupal/entity_browser": "^2.6",
+        "drupal/field_inheritance": "^2.0@RC"
     },
     "repositories": [
         {

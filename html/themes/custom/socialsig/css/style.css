@@ -1,0 +1,11 @@
+.field--name-field-file .form-item .help-block,
+.field--name-field-file .form-item label {
+  display: none;
+}
+
+.field--name-field-file .form-item .form-control {
+  border-radius: 10px;
+  height: 2.2em;
+  padding-top: 9px;
+  line-height: 0.8;
+}

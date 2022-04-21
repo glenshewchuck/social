@@ -1,0 +1,29 @@
+name: Social Blue theme
+description: Demo theme for Open social installations.
+screenshot: screenshot.png
+type: theme
+
+base theme: socialblue
+
+core_version_requirement: ^8.8 || ^9
+
+libraries:
+  - socialsig/global-styling
+
+regions:
+  hidden: Hidden
+  header_top: Header top
+  header: Header
+  breadcrumb: Breadcrumb
+  hero: Hero
+  secondary_navigation: Secondary navigation
+  content_top: Content top
+  title: Page title
+  content: Content
+  complementary_top: Complementary top
+  complementary_bottom: Complementary bottom
+  content_bottom: Content bottom
+  sidebar_first: Sidebar First
+  sidebar_second: Sidebar Second
+  footer: Footer
+
